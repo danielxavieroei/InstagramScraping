@@ -1,6 +1,0 @@
-Source:
-- https://www.selenium.dev/documentation/webdriver/drivers/service/#driver-location
-- https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4
-- https://stackoverflow.com/questions/72773206/selenium-python-attributeerror-webdriver-object-has-no-attribute-find-el
-- https://www.youtube.com/watch?v=4iu-KMWVW9E 
-- https://www.youtube.com/watch?v=iJGvYBH9mcY
