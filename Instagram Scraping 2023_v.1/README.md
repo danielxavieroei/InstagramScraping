@@ -1,1 +1,1 @@
-In this version, i'm using Selenium
+In this version, i'm using Selenium and Requests
